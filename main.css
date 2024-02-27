@@ -1,0 +1,59 @@
+#Main{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    box-shadow: 8px 8px 8px grey;
+}
+#First{
+    background-color: wheat;
+    width: 1000px;
+    height: 125px;
+    font-family: Bebas Neue;
+    font-size: 100px;
+    color: white;
+}
+#Left{
+    background-color: rgb(235, 209, 162); 
+    width: 500px;
+    height: 625px;
+    font-family: Bebas Neue;
+    font-size: 76px;
+    text-align: center;
+    color: white;
+    display: flex;
+    position: relative;
+}
+#Right{
+    background-color: rgb(233, 205, 154);
+    width: 500px;
+    height: 625px;
+    font-family: Bebas Neue;
+    font-size: 38px;
+    text-align: center;
+    color: white;
+}
+#End{
+    background-color: wheat;
+    width: 1000px;
+    height: 50px;
+    font-family: Bebas Neue;
+    font-size: 46px;
+    color: white;
+    position: relative;
+}
+#Photo{
+    width: 300px;
+    height: 250px;
+    margin-top: 18%;
+}
+#Mother{
+    display: flex;
+}
+#Icons{
+    background-color: rgb(235, 214, 175);
+    width: 500px;
+    height: 125px;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+}
